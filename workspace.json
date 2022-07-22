@@ -3,6 +3,10 @@
   "version": 2,
   "projects": {
     "api": "apps/api",
+    "dto": "libs/dto",
+    "mesh": "libs/mesh",
+    "types": "libs/types",
+    "ui": "libs/ui",
     "web": "apps/web",
     "web-e2e": "apps/web-e2e"
   }
